@@ -207,7 +207,7 @@ class Ui_MainWindow(object):
         self.twobutton.setText(_translate("MainWindow", "2"))
         self.onebutton.setText(_translate("MainWindow", "1"))
         self.plusbutton.setText(_translate("MainWindow", "+"))
-        self.threebutton.setText(_translate("MainWindow", "3"))
+        self.threebutton.setText(_translate("MainWindow", "4"))
         self.zerobutton.setText(_translate("MainWindow", "0"))
         self.plusorminusbutton.setText(_translate("MainWindow", "+/-"))
         self.isequltobutton.setText(_translate("MainWindow", "="))
